@@ -1,3 +1,3 @@
 functon(subjects){
-    let
+    let kk =123;
 }
